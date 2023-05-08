@@ -1,2 +1,1 @@
-# PrepCourse
-esto es un repositorio 
+Esto es una prueba de como crear una prueba y clonarla
